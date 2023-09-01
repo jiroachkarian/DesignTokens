@@ -1,9 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Fri, 01 Sep 2023 15:57:36 GMT
+ * Generated on Fri, 01 Sep 2023 16:21:47 GMT
  */
 
 :root {
   --sd-colors-red: #a90c0c;
   --sd-colors-primary: #DCEB32;
+  --sd-colors-radius: 7;
 }
