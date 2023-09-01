@@ -1,8 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Wed, 23 Aug 2023 20:04:34 GMT
+ * Generated on Fri, 01 Sep 2023 15:57:36 GMT
  */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,700&family=Spectral:wght@300&family=Tektur:wght@800&display=swap');
+
 :root {
   --sd-colors-red: #a90c0c;
+  --sd-colors-primary: #DCEB32;
 }
